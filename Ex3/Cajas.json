@@ -1,0 +1,26 @@
+[{
+  "_id": "0000A",
+  "Contenido": "Arroz",
+  "Valor": 100,
+  "id_Almacen": 1
+},{
+  "_id": "0000B",
+  "Contenido": "Pulsera",
+  "Valor": 381,
+  "id_Almacen": 2
+},{
+  "_id": "0000G",
+  "Contenido": "Pasta",
+  "Valor": 31,
+  "id_Almacen": 3
+},{
+  "_id": "0000F",
+  "Contenido": "Corta-Uñas",
+  "Valor": 182,
+  "id_Almacen": 4
+},{
+  "_id": "0000J",
+  "Contenido": "Ordenador",
+  "Valor": 1351,
+  "id_Almacen": 5
+}]
