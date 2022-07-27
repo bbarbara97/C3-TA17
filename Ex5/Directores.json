@@ -1,0 +1,26 @@
+[{
+  "_id": "12345678",
+  "NomApels": " Alfonso Alonso",
+  "DNIJefe": "98765432",
+  "Despacho": 1
+},{
+  "_id": "85274132",
+  "NomApels": "Rafa Nadal",
+  "DNIJefe": "85274185",
+  "Despacho": 2
+},{
+  "_id": "654788932",
+  "NomApels": "Juan Lopez",
+  "DNIJefe": "78965432",
+  "Despacho": 3
+},{
+  "_id": "85274189",
+  "NomApels": "Pedro Sanchez",
+  "DNIJefe": "89653241",
+  "Despacho": 4
+},{
+  "_id": "74108562",
+  "NomApels": "Maria Perez",
+  "DNIJefe": "89653241",
+  "Despacho": 5
+}]
