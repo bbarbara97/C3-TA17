@@ -1,0 +1,21 @@
+[{
+  "_id": "98765432",
+  "NomApels": "Fernando Alonso",
+  "Facultad": 1
+},{
+  "_id": "85274196",
+  "NomApels": "Rafael Nadal",
+  "Facultad": 2
+},{
+  "_id": "96385274",
+  "NomApels": "Antonio Sanchez",
+  "Facultad": 3
+},{
+  "_id": "85279654",
+  "NomApels": "Pedro Picapiedra",
+  "Facultad": 4
+},{
+  "_id": "78965412",
+  "NomApels": "Elsa Pataki",
+  "Facultad": 5
+}]

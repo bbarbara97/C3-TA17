@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "62e10ebf1de4dbf48a5227c7"
+  },
+  "id_DNI": "98765432",
+  "id_NumSerie": "5566778Y",
+  "Comienzo": {
+    "$date": {
+      "$numberLong": "1589788800000"
+    }
+  },
+  "Fin": {
+    "$date": {
+      "$numberLong": "1621346400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62e10eed1de4dbf48a5227c8"
+  },
+  "id_DNI": "85274196",
+  "id_NumSerie": "9988774L",
+  "Comienzo": {
+    "$date": {
+      "$numberLong": "1558166400000"
+    }
+  },
+  "Fin": {
+    "$date": {
+      "$numberLong": "1589810400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62e10f261de4dbf48a5227c9"
+  },
+  "id_DNI": "96385274",
+  "id_NumSerie": "9876543P",
+  "Comienzo": {
+    "$date": {
+      "$numberLong": "1526630400000"
+    }
+  },
+  "Fin": {
+    "$date": {
+      "$numberLong": "1589810400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62e10f6c1de4dbf48a5227ca"
+  },
+  "id_DNI": "85279654",
+  "id_NumSerie": "8529517I",
+  "Comienzo": {
+    "$date": {
+      "$numberLong": "1589788800000"
+    }
+  },
+  "Fin": {
+    "$date": {
+      "$numberLong": "1652882400000"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "62e10fa91de4dbf48a5227cb"
+  },
+  "id_DNI": "78965412",
+  "id_NumSerie": "8975364K",
+  "Comienzo": {
+    "$date": {
+      "$numberLong": "1589788800000"
+    }
+  },
+  "Fin": {
+    "$date": {
+      "$numberLong": "1652882400000"
+    }
+  }
+}]

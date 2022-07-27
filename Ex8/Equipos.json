@@ -1,0 +1,21 @@
+[{
+  "_id": "5566778Y",
+  "Nombre": "Universidad Tecnologico",
+  "Facultad": 1
+},{
+  "_id": "9988774L",
+  "Nombre": "En Recerca",
+  "Facultad": 2
+},{
+  "_id": "9876543P",
+  "Nombre": "Los Investigadores",
+  "Facultad": 3
+},{
+  "_id": "8529517I",
+  "Nombre": "Open your Mind",
+  "Facultad": 4
+},{
+  "_id": "8975364K",
+  "Nombre": "The crazy ones",
+  "Facultad": 5
+}]
