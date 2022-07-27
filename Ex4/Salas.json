@@ -1,0 +1,21 @@
+[{
+  "_id": 1,
+  "Nombre": "Acción",
+  "id_Pelicula": 1
+},{
+  "_id": 2,
+  "Nombre": "Comedia",
+  "id_Pelicula": 5
+},{
+  "_id": 3,
+  "Nombre": "Terror",
+  "id_Pelicula": 2
+},{
+  "_id": 4,
+  "Nombre": "Romance",
+  "id_Pelicula": 4
+},{
+  "_id": 5,
+  "Nombre": "Infantil",
+  "id_Pelicula": 3
+}]
