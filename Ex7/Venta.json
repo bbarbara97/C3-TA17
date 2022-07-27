@@ -1,0 +1,26 @@
+[{
+  "_id": 1,
+  "id_Cajero": 1,
+  "id_Maquina": 5,
+  "id_Producto": 2
+},{
+  "_id": 2,
+  "id_Cajero": 2,
+  "id_Maquina": 4,
+  "id_Producto": 4
+},{
+  "_id": 3,
+  "id_Cajero": 3,
+  "id_Maquina": 3,
+  "id_Producto": 1
+},{
+  "_id": 4,
+  "id_Cajero": 4,
+  "id_Maquina": 2,
+  "id_Producto": 3
+},{
+  "_id": 5,
+  "id_Cajero": 5,
+  "id_Maquina": 1,
+  "id_Producto": 5
+}]
