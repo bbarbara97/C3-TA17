@@ -1,0 +1,31 @@
+[{
+  "_id": {
+    "$oid": "62e10c57b29e6a3929496484"
+  },
+  "Cientifico": "75482341",
+  "Proyecto": "000V"
+},{
+  "_id": {
+    "$oid": "62e10c64b29e6a3929496485"
+  },
+  "Cientifico": "74823517",
+  "Proyecto": "000K"
+},{
+  "_id": {
+    "$oid": "62e10c7cb29e6a3929496486"
+  },
+  "Cientifico": "73960124",
+  "Proyecto": "000T"
+},{
+  "_id": {
+    "$oid": "62e10c9fb29e6a3929496487"
+  },
+  "Cientifico": "74245174",
+  "Proyecto": "000H"
+},{
+  "_id": {
+    "$oid": "62e10cadb29e6a3929496488"
+  },
+  "Cientifico": "84147282",
+  "Proyecto": "000A"
+}]
